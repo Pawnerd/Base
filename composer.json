@@ -1,5 +1,5 @@
 {
-    "name": "pawnerd/backpack-base",
+    "name": "backpack/crud",
     "type": "library",
     "description": "Laravel Backpack's base package, which offers admin authentication and a blank admin panel using AdminLTE",
     "keywords": [
