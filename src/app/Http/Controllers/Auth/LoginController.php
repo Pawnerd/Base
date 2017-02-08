@@ -3,7 +3,7 @@
 namespace Backpack\Base\app\Http\Controllers\Auth;
 
 use Backpack\Base\app\Http\Controllers\Controller;
-use Illuminate\Foundation\Auth\AuthenticatesUsers;
+use App\AuthenticatesUsers;
 use Illuminate\Http\Request;
 
 class LoginController extends Controller
